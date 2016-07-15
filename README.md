@@ -1,4 +1,4 @@
-# Cs6065_P3_Hadoop
+# TweetAnalysis - Hadoop
 This repository has map reduce python files developed by three member team. Each person in the team answered two questions.
 
 ###Team members :
